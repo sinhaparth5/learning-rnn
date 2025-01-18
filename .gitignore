@@ -12,3 +12,7 @@ wheels/
 # Processed midi files
 midi_dataset/processed/*
 processing_report.txt
+
+# Models file
+models
+
